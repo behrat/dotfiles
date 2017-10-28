@@ -1,0 +1,7 @@
+[push]
+	default = simple
+[core]
+	editor = vim
+[rebase]
+	autosquash = true
+	autostash = true
